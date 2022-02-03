@@ -1,0 +1,40 @@
+div {
+  background-color: #219F94;
+}
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+/* class selectors*/
+
+.top-container {
+  background-color: #219F94;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  border-color: black;
+  padding: 20px;
+}
+
+.middle-container
+ {
+  background-color: #C1DEAE;
+  height: 200px;
+  width: 200px;
+  border: solid 20px;
+  border-color: black;
+  margin-left: 260px;
+}
+
+.bottom-container {
+  background-color:#EFDAD7;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  border-color: black;
+  margin-left: 500px;
+}
